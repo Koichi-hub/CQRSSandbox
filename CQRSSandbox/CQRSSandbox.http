@@ -1,0 +1,6 @@
+@CQRSSandbox_HostAddress = http://localhost:5208
+
+GET {{CQRSSandbox_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
